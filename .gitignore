@@ -1,0 +1,26 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Variables de entorno (contiene la API key real)
+.env
+
+# Índice generado (embeddings) - se regenera con build_index.py
+data/index.json
+
+# Cache y bytecode de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache de tiktoken (tabla de encoding descargada)
+.tiktoken_cache/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Entornos y configuración de editores/IDEs
+.vscode/
+.idea/
