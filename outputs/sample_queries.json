@@ -1,0 +1,56 @@
+[
+  {
+    "user_question": "Perdí mi tarjeta de débito, ¿qué debo hacer?",
+    "system_answer": "Debes bloquearla de inmediato desde el aplicativo, en la sección \"Mis tarjetas\" > \"Bloquear tarjeta\", o llamando a la línea de atención disponible las 24 horas. El bloqueo es inmediato y evita cualquier uso no autorizado. Después puedes solicitar una tarjeta de reemplazo, que llega a tu domicilio o agencia elegida en un plazo de 3 a 7 días hábiles.",
+    "chunks_related": [
+      {
+        "chunk_id": "chunk_019",
+        "text": "¿Qué hago si perdí mi tarjeta o me la robaron? Bloquea la tarjeta de inmediato desde el aplicativo en \"Mis tarjetas\" > \"Bloquear tarjeta\", o llama a la línea de atención disponible las 24 horas. El bloqueo es inmediato y evita cualquier uso no autorizado. Posteriormente puedes solicitar una tarjeta de reemplazo, que llegará a tu domicilio o agencia elegida en un plazo de entre 3 y 7 días hábiles."
+      },
+      {
+        "chunk_id": "chunk_015",
+        "text": "¿Qué hago si sospecho que fui víctima de un fraude o phishing? Comunícate de inmediato a la línea de emergencia bancaria, disponible las 24 horas, para bloquear preventivamente tus productos. No compartas códigos OTP, contraseñas ni datos de tu tarjeta con nadie, incluyendo personas que se identifiquen como personal del banco por teléfono o redes sociales, ya que el banco nunca solicita esta información por esos medios."
+      },
+      {
+        "chunk_id": "chunk_020",
+        "text": "¿Cómo cambio el PIN de mi tarjeta? Puedes cambiar tu PIN en cualquier cajero automático del banco, seleccionando la opción \"Cambio de clave\", o desde el aplicativo en \"Mis tarjetas\" > \"Cambiar PIN\", donde el nuevo PIN se sincroniza con el chip de la tarjeta en tu próxima operación con clave. Evita PIN obvios como fechas de nacimiento o secuencias numéricas simples."
+      }
+    ]
+  },
+  {
+    "user_question": "¿Las agencias atienden los sábados y feriados?",
+    "system_answer": "Sí, las agencias atienden los sábados de 9:00 a.m. a 1:00 p.m. En feriados, la mayoría de agencias no abre, salvo algunas seleccionadas dentro de centros comerciales de alto tráfico, que sí atienden con horario reducido. Te recomendamos verificar el estado de tu agencia más cercana en la sección \"Ubícanos\" del aplicativo antes de acudir en una fecha festiva.",
+    "chunks_related": [
+      {
+        "chunk_id": "chunk_006",
+        "text": "¿Cuál es el horario de atención de las agencias? El horario general de atención en agencias es de lunes a viernes de 9:00 a.m. a 6:00 p.m., y sábados de 9:00 a.m. a 1:00 p.m. Las agencias ubicadas dentro de centros comerciales suelen extender su horario hasta las 8:00 p.m. de lunes a domingo, según el horario del propio centro comercial. Los horarios específicos de cada agencia se pueden consultar en el aplicativo o en la página web, en la sección \"Ubícanos\"."
+      },
+      {
+        "chunk_id": "chunk_010",
+        "text": "¿Las agencias atienden feriados? La mayoría de agencias no atiende en feriados nacionales. Sin embargo, algunas agencias seleccionadas ubicadas en centros comerciales de alto tráfico sí abren en feriados, con horario reducido. Te recomendamos verificar el estado de tu agencia más cercana en la sección \"Ubícanos\" del aplicativo antes de acudir en fechas festivas."
+      },
+      {
+        "chunk_id": "chunk_008",
+        "text": "¿Puedo sacar una cita previa para ser atendido en agencia? Sí. A través del aplicativo o la página web puedes reservar una cita en la sección \"Agenda tu cita\", seleccionando la agencia, el motivo del trámite y un horario disponible. Esto te permite evitar las colas de atención general. Se recomienda llegar con 10 minutos de anticipación y presentar el código de confirmación de la cita, ya sea impreso o en el celular."
+      }
+    ]
+  },
+  {
+    "user_question": "Veo un cobro en mi tarjeta que no reconozco, ¿cómo hago un reclamo?",
+    "system_answer": "Desde el aplicativo, ve al detalle del movimiento y selecciona \"No reconozco este cargo\" para iniciar automáticamente el proceso de disputa; también puedes hacerlo desde el chat en línea o en agencia. El banco investigará el caso y, mientras dure el proceso, en muchos casos se aplica un abono provisional por el monto en disputa. El plazo legal máximo de respuesta es de 30 días calendario, aunque estos casos suelen resolverse entre 5 y 15 días hábiles, y puedes hacer seguimiento del estado en la sección \"Mis reclamos\".",
+    "chunks_related": [
+      {
+        "chunk_id": "chunk_027",
+        "text": "¿Cómo reporto un cobro que no reconozco en mi tarjeta? Desde el aplicativo, ve al detalle del movimiento y selecciona \"No reconozco este cargo\" para iniciar automáticamente el proceso de disputa. También puedes hacerlo desde el chat en línea o en agencia. El banco investigará el caso y, mientras dure el proceso, en muchos casos se aplica un abono provisional al monto en disputa hasta resolver el reclamo."
+      },
+      {
+        "chunk_id": "chunk_028",
+        "text": "¿Cuánto tiempo demora la resolución de un reclamo? El plazo legal máximo de respuesta para reclamos es de 30 días calendario, aunque la mayoría de casos de disputas por consumo no reconocido se resuelven en un plazo de entre 5 y 15 días hábiles. Puedes hacer seguimiento del estado de tu reclamo en tiempo real desde la sección \"Mis reclamos\" del aplicativo o la web usando tu número de caso."
+      },
+      {
+        "chunk_id": "chunk_009",
+        "text": "¿Qué hago si necesito hacer un reclamo directamente en agencia? Puedes acercarte al módulo de atención al cliente de cualquier agencia y solicitar el \"Libro de Reclamaciones\" físico o su versión digital. El personal te ayudará a registrar el reclamo con el detalle de la operación afectada. Recibirás un número de caso que también podrás rastrear luego desde el aplicativo o la web, en la sección de seguimiento de reclamos."
+      }
+    ]
+  }
+]
