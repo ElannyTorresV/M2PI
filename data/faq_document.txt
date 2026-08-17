@@ -1,0 +1,94 @@
+PREGUNTAS FRECUENTES - BANCO DIGITAL
+Guía de soporte para clientes: aplicativo móvil, agencias y página web
+
+=== APLICATIVO MÓVIL ===
+
+¿Cómo descargo e instalo el aplicativo del banco? El aplicativo está disponible de forma gratuita en Google Play Store para dispositivos Android y en App Store para dispositivos iOS. Busca el nombre oficial del banco, verifica que el desarrollador coincida con nuestra razón social y descarga la versión más reciente. Una vez instalada, la app te pedirá permisos de cámara y ubicación, necesarios para funciones como el escaneo de cheques y la geolocalización de agencias cercanas.
+
+¿Cómo creo mi usuario en el aplicativo por primera vez? Ingresa a la app y selecciona "Registrarme". Necesitarás tu número de documento de identidad, el número de tu tarjeta o cuenta, y un correo electrónico válido registrado previamente en el banco. El sistema enviará un código de verificación de un solo uso (OTP) a tu celular registrado, que deberás ingresar en menos de 5 minutos. Luego crearás una contraseña que cumpla con los requisitos de seguridad: mínimo 8 caracteres, una mayúscula, un número y un carácter especial.
+
+¿Qué hago si olvidé mi contraseña del aplicativo? En la pantalla de inicio de sesión, selecciona "¿Olvidaste tu contraseña?". El sistema te pedirá tu número de documento y enviará un enlace de recuperación al correo o un código OTP al celular registrado. Por seguridad, el enlace de recuperación expira a los 15 minutos. Si no recibes el código, verifica que tu número de celular esté actualizado en tus datos personales o acude a una agencia con tu documento de identidad original.
+
+¿Puedo usar el aplicativo en varios dispositivos al mismo tiempo? Por políticas de seguridad, la sesión del aplicativo solo puede estar activa en un dispositivo a la vez. Si inicias sesión en un nuevo celular, la sesión del dispositivo anterior se cerrará automáticamente y recibirás una notificación de alerta. Si no reconoces este acceso, debes bloquear tu acceso de inmediato desde la opción "Reportar acceso no autorizado" o llamando a la línea de atención.
+
+¿Cómo activo el acceso con huella digital o Face ID? Dentro del aplicativo, ve a "Configuración" y luego a "Seguridad y accesos". Ahí encontrarás la opción de habilitar el ingreso biométrico, siempre que tu dispositivo cuente con esta tecnología habilitada a nivel de sistema operativo. Esta función solo agiliza el inicio de sesión; no reemplaza la clave para operaciones sensibles como transferencias grandes, que igual solicitarán verificación adicional.
+
+¿El aplicativo funciona sin conexión a internet? No. El aplicativo requiere conexión a internet (datos móviles o WiFi) para todas sus funciones, ya que se comunica en tiempo real con los servidores del banco para mostrar saldos actualizados y procesar operaciones. Recomendamos evitar el uso de redes WiFi públicas no seguras para operaciones bancarias, y en su lugar utilizar datos móviles o una red confiable.
+
+=== AGENCIAS FÍSICAS ===
+
+¿Cuál es el horario de atención de las agencias? El horario general de atención en agencias es de lunes a viernes de 9:00 a.m. a 6:00 p.m., y sábados de 9:00 a.m. a 1:00 p.m. Las agencias ubicadas dentro de centros comerciales suelen extender su horario hasta las 8:00 p.m. de lunes a domingo, según el horario del propio centro comercial. Los horarios específicos de cada agencia se pueden consultar en el aplicativo o en la página web, en la sección "Ubícanos".
+
+¿Qué documentos debo llevar para hacer un trámite en agencia? Para la mayoría de trámites necesitas tu documento de identidad original y vigente (DNI, carné de extranjería o pasaporte según corresponda). Para trámites específicos como apertura de cuentas empresariales, se solicitan documentos adicionales como vigencia de poder o ficha RUC. Recomendamos llamar previamente o revisar los requisitos en la web antes de acudir, para evitar una segunda visita.
+
+¿Puedo sacar una cita previa para ser atendido en agencia? Sí. A través del aplicativo o la página web puedes reservar una cita en la sección "Agenda tu cita", seleccionando la agencia, el motivo del trámite y un horario disponible. Esto te permite evitar las colas de atención general. Se recomienda llegar con 10 minutos de anticipación y presentar el código de confirmación de la cita, ya sea impreso o en el celular.
+
+¿Qué hago si necesito hacer un reclamo directamente en agencia? Puedes acercarte al módulo de atención al cliente de cualquier agencia y solicitar el "Libro de Reclamaciones" físico o su versión digital. El personal te ayudará a registrar el reclamo con el detalle de la operación afectada. Recibirás un número de caso que también podrás rastrear luego desde el aplicativo o la web, en la sección de seguimiento de reclamos.
+
+¿Las agencias atienden feriados? La mayoría de agencias no atiende en feriados nacionales. Sin embargo, algunas agencias seleccionadas ubicadas en centros comerciales de alto tráfico sí abren en feriados, con horario reducido. Te recomendamos verificar el estado de tu agencia más cercana en la sección "Ubícanos" del aplicativo antes de acudir en fechas festivas.
+
+=== PÁGINA WEB ===
+
+¿Cómo accedo a mi banca por internet desde la página web? Ingresa a la página web oficial del banco y selecciona "Banca por Internet" en la esquina superior derecha. Usa las mismas credenciales que utilizas en el aplicativo móvil: usuario y contraseña. Si es tu primer ingreso desde un navegador, el sistema puede solicitarte un código de verificación adicional enviado por SMS o correo, como medida de seguridad ante un dispositivo no reconocido.
+
+¿Qué operaciones puedo hacer desde la banca por internet que no puedo hacer en el aplicativo? La banca por internet ofrece funciones orientadas a trámites más extensos, como la descarga de estados de cuenta históricos en PDF de hasta 5 años de antigüedad, la generación de constancias y certificados bancarios, y la gestión de pagos masivos a proveedores para cuentas empresariales. El aplicativo móvil, en cambio, está optimizado para operaciones rápidas del día a día.
+
+¿La página web tiene un chat de atención en línea? Sí, en el horario de 8:00 a.m. a 10:00 p.m. de lunes a domingo puedes acceder al chat en vivo desde el ícono ubicado en la esquina inferior derecha de la página web. Fuera de ese horario, el chat es atendido por un asistente virtual que puede resolver consultas frecuentes y derivar tu caso a un agente humano en el siguiente horario disponible.
+
+¿Cómo verifico que estoy en la página web oficial y no en un sitio falso (phishing)? Verifica siempre que la dirección comience con "https://" y muestre el ícono de candado en el navegador. El dominio oficial nunca incluye guiones, números adicionales o extensiones distintas a las registradas oficialmente por el banco. Ante cualquier duda, no ingreses tus credenciales y repórtalo de inmediato a nuestra línea de seguridad.
+
+=== SEGURIDAD Y PREVENCIÓN DE FRAUDE ===
+
+¿Qué hago si sospecho que fui víctima de un fraude o phishing? Comunícate de inmediato a la línea de emergencia bancaria, disponible las 24 horas, para bloquear preventivamente tus productos. No compartas códigos OTP, contraseñas ni datos de tu tarjeta con nadie, incluyendo personas que se identifiquen como personal del banco por teléfono o redes sociales, ya que el banco nunca solicita esta información por esos medios.
+
+¿Cómo activo las alertas de transacciones sospechosas? Todas las cuentas y tarjetas tienen activadas por defecto las notificaciones push y SMS para operaciones mayores a un monto configurable por el cliente. Puedes ajustar estos montos y canales de notificación desde "Configuración" > "Alertas y notificaciones" en el aplicativo. Recomendamos mantener activas las alertas por SMS incluso si usas principalmente las notificaciones push, como respaldo ante fallos de conexión.
+
+¿Qué es la verificación en dos pasos y cómo la activo? La verificación en dos pasos añade una capa adicional de seguridad solicitando un código temporal, además de tu contraseña, al iniciar sesión desde un dispositivo nuevo o al realizar operaciones de alto riesgo. Se activa desde "Seguridad y accesos" en el aplicativo, y recomendamos vincularla a una aplicación autenticadora en lugar de solo SMS, ya que ofrece mayor protección ante la duplicación de tarjeta SIM.
+
+=== TARJETAS DE CRÉDITO Y DÉBITO ===
+
+¿Cómo activo mi tarjeta nueva? Las tarjetas nuevas llegan inactivas por seguridad. Puedes activarla desde el aplicativo, en la sección "Mis tarjetas" > "Activar tarjeta", ingresando los últimos 4 dígitos y la fecha de vencimiento, o llamando a la línea de atención. La activación es inmediata y podrás usarla en el momento para compras y retiros, salvo restricciones temporales de seguridad en tu primer uso.
+
+¿Qué hago si perdí mi tarjeta o me la robaron? Bloquea la tarjeta de inmediato desde el aplicativo en "Mis tarjetas" > "Bloquear tarjeta", o llama a la línea de atención disponible las 24 horas. El bloqueo es inmediato y evita cualquier uso no autorizado. Posteriormente puedes solicitar una tarjeta de reemplazo, que llegará a tu domicilio o agencia elegida en un plazo de entre 3 y 7 días hábiles.
+
+¿Cómo cambio el PIN de mi tarjeta? Puedes cambiar tu PIN en cualquier cajero automático del banco, seleccionando la opción "Cambio de clave", o desde el aplicativo en "Mis tarjetas" > "Cambiar PIN", donde el nuevo PIN se sincroniza con el chip de la tarjeta en tu próxima operación con clave. Evita PIN obvios como fechas de nacimiento o secuencias numéricas simples.
+
+¿Cuál es el límite de mi tarjeta de crédito y cómo lo consulto? El límite de crédito se define según tu perfil crediticio al momento de la aprobación y puede ajustarse posteriormente según tu historial de pagos. Puedes consultar tu límite disponible en tiempo real desde la pantalla principal del aplicativo o solicitando un aumento de línea desde "Mis tarjetas" > "Solicitar aumento de línea", sujeto a evaluación.
+
+=== TRANSFERENCIAS Y PAGOS ===
+
+¿Cómo hago una transferencia a otro banco? Desde el aplicativo o la banca por internet, selecciona "Transferencias" > "A otros bancos", ingresa el número de cuenta o código interbancario (CCI) del destinatario, el monto y un concepto opcional. Las transferencias interbancarias suelen acreditarse de forma inmediata durante el horario operativo, aunque en algunos casos pueden demorar hasta 2 horas dependiendo del banco destino.
+
+¿Cuál es el límite diario de transferencias? El límite diario por defecto varía según el canal: las transferencias entre cuentas propias no tienen límite, mientras que las transferencias a terceros y otros bancos tienen un tope diario configurable desde el aplicativo, dentro de un rango máximo permitido según tu perfil de riesgo. Puedes solicitar un aumento temporal de límite desde "Configuración" > "Límites de transacción".
+
+¿Puedo programar pagos recurrentes de servicios? Sí, en la sección "Pagos de servicios" puedes afiliar recibos de luz, agua, telefonía y otros servicios, y programar el pago automático en una fecha determinada de cada mes usando el saldo o línea de tu tarjeta. Recibirás una notificación previa al cargo y podrás desafiliar el servicio en cualquier momento sin costo.
+
+=== TIPOS DE CUENTA Y PRODUCTOS ===
+
+¿Cuál es la diferencia entre una cuenta de ahorros y una cuenta corriente? La cuenta de ahorros está pensada para el manejo personal del dinero y genera una tasa de interés pasiva sobre el saldo, mientras que la cuenta corriente está orientada a un uso más transaccional, permite sobregiro autorizado y es la más usada para negocios, pero generalmente no genera intereses y puede tener una comisión de mantenimiento más alta.
+
+¿Cómo funciona un depósito a plazo fijo? Un depósito a plazo fijo te permite inmovilizar un monto de dinero durante un periodo determinado (30, 90, 180 o 360 días, entre otros) a cambio de una tasa de interés fija, generalmente más alta que la de una cuenta de ahorros. Si retiras el dinero antes del vencimiento, se aplica una penalidad sobre los intereses generados. Puedes abrir un depósito a plazo desde el aplicativo, la web o en agencia.
+
+=== RECLAMOS Y DISPUTAS ===
+
+¿Cómo reporto un cobro que no reconozco en mi tarjeta? Desde el aplicativo, ve al detalle del movimiento y selecciona "No reconozco este cargo" para iniciar automáticamente el proceso de disputa. También puedes hacerlo desde el chat en línea o en agencia. El banco investigará el caso y, mientras dure el proceso, en muchos casos se aplica un abono provisional al monto en disputa hasta resolver el reclamo.
+
+¿Cuánto tiempo demora la resolución de un reclamo? El plazo legal máximo de respuesta para reclamos es de 30 días calendario, aunque la mayoría de casos de disputas por consumo no reconocido se resuelven en un plazo de entre 5 y 15 días hábiles. Puedes hacer seguimiento del estado de tu reclamo en tiempo real desde la sección "Mis reclamos" del aplicativo o la web usando tu número de caso.
+
+=== COMISIONES Y TASAS ===
+
+¿Mi cuenta tiene comisión de mantenimiento? Depende del tipo de cuenta y del cumplimiento de condiciones como mantener un saldo mínimo promedio o recibir tu remuneración por esta vía, en cuyo caso la comisión suele exonerarse. Puedes consultar el tarifario vigente completo, con todas las comisiones y condiciones de exoneración, en la sección "Tarifario" de la página web.
+
+¿Cobra comisión retirar en cajeros de otros bancos? Sí, los retiros en cajeros automáticos de otras entidades bancarias generalmente generan una comisión, tanto por parte de nuestro banco como, en algunos casos, por parte del banco propietario del cajero. Para evitar estos cobros, te recomendamos usar la red de cajeros propios del banco o cajeros de la red compartida sin costo, visibles en el mapa del aplicativo.
+
+=== REQUISITOS Y DOCUMENTACIÓN ===
+
+¿Qué necesito para abrir una cuenta de ahorros por primera vez? Necesitas ser mayor de edad y presentar tu documento de identidad original y vigente. La apertura puede iniciarse de forma 100% digital desde el aplicativo para clientes nuevos en la mayoría de los casos, con verificación de identidad mediante una selfie y validación biométrica, sin necesidad de acudir a una agencia.
+
+¿Cómo actualizo mis datos personales como dirección o número de celular? Puedes actualizar tu dirección, correo electrónico y número de celular directamente desde el aplicativo en "Mi perfil" > "Datos personales", sin necesidad de ir a una agencia. Sin embargo, cambios de datos más sensibles, como corrección del nombre completo por error registral, requieren acercarte a una agencia con la documentación sustentatoria correspondiente.
+
+=== CANALES DE ATENCIÓN ===
+
+¿Cuáles son los canales disponibles para contactar al banco? Cuentas con múltiples canales: la línea telefónica de atención al cliente disponible las 24 horas los 7 días de la semana, el chat en vivo dentro del aplicativo y la página web, las redes sociales oficiales para consultas generales, y la atención presencial en agencias. Para temas de seguridad urgentes, como bloqueo de tarjetas, la línea telefónica es siempre el canal más rápido.
+
+¿El banco tiene atención por WhatsApp? Sí, contamos con un canal oficial de WhatsApp Business verificado, donde puedes consultar tu saldo, últimos movimientos y ubicación de agencias mediante un asistente automatizado. Por seguridad, este canal no permite realizar transferencias ni operaciones monetarias, y nunca solicitará tu contraseña o código OTP completo bajo ninguna circunstancia.
